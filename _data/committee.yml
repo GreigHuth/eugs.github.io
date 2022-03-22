@@ -2,29 +2,29 @@
   pic:  placeholder.jpg
   role: President
   title: The PubMaster
-  quote: Pub? Pub.
+  quote: I'm came to the Pub to pub and pub, and I'm all out of pub
   colour: color:#55d87d
 
 - name: Camila Sanchez 
   pic:  placeholder.jpg
   role: Secretary
   title: The D.VA main
-  quote: 
-  colour: color:#a9353c
+  quote: Running on coffee
+  colour: color:#98f3f9
 
 - name: James Cladingbowl
   pic:  placeholder.jpg
   role: Treasurer
   title: Femboy Finance
-  quote: 
-  colour: color:#f200df
+  quote: Perpetually awake, learning.
+  colour: color:#231d2d
 
 - name: Graye Goldsmith
   pic: placeholder.jpg
   role: Social Secretary
   title: The Archlich
   quote: kel'thuzad my beloved
-  colour: color:#835eec
+  colour: color:#b600b2
 
 - name: 
   pic:  gamesoccenter.png
@@ -38,7 +38,7 @@
   role: Server Admin  
   title: The Purse Owner 
   quote: Ran for president and all I got was server admin
-  colour: color:#849cd8
+  colour: color:#beedfa
 
 - name: Tom Tudor
   pic:  general1.jpg
