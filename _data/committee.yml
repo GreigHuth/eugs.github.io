@@ -1,9 +1,9 @@
-- name: Dwight Quinn
-  pic:  placeholder.jpg
+- name: Maya Copeland
+  pic:  president.jpg
   role: President
-  title: The PubMaster
-  quote: I'm came to the Pub to pub and pub, and I'm all out of pub
-  colour: color:#55d87d
+  title: Gwangagoolah !
+  quote: Cheese? Gromit.
+  colour: color:#beedfa
 
 - name: Camila Sanchez 
   pic:  sec.png
@@ -13,7 +13,7 @@
   colour: color:#b86bff
 
 - name: James Cladingbowl
-  pic:  placeholder.jpg
+  pic:  lowres.png
   role: Treasurer
   title: Femboy Finance
   quote: Perpetually awake, learning.
@@ -33,24 +33,26 @@
   quote: 
   colour: 
 
-- name: Maya Copeland
-  pic: placeholder.jpg
+- name: Tom Tudor
+  pic: serveradmin.jpg
   role: Server Admin  
-  title: The Purse Owner 
-  quote: Cheese? Gromit.
+  title: The Dungeon Master 
+  quote: Gamesoc dungeon master. Will trade magic items for snacks.
   colour: color:#beedfa
 
-- name: Tom Tudor
-  pic:  general1.jpg
-  role: Committee Assistant
-  title: YIN
-  quote: Gamesoc dungeon master. Will trade magic items for snacks.
-  colour: color:#060973
-
 - name: Amogh Bodas
-  pic:  yang.png
+  pic:  yang.jpg
   role: Committee Assistant
   title: YANG
   quote: 🤝:)
   colour: color:#ffffff
+
+
+- name: Undecided (EGM soon)
+  pic:  placeholder.jpg
+  role: Committee Assistant
+  title: 
+  quote:
+  colour: color:#060973
+
 
