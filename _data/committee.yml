@@ -1,29 +1,29 @@
-- name: Maya Copeland
+- name: Raven
   pic:  president.jpg
   role: President
-  title: Gwangagoolah !
-  quote: Cheese? Gromit.
+  title: Flying Bird
+  quote: Your local yearning fool and galaxy-forest cat cryptid.
   colour: color:#beedfa
 
-- name: Camila Sanchez 
-  pic:  sec.png
+- name: Taylor
+  pic:  secretary.png
   role: Secretary
-  title: The D.VA main
-  quote: Running on coffee
+  title: The
+  quote: ฅ^•ﻌ•^ฅ
   colour: color:#b86bff
 
-- name: James Cladingbowl
-  pic:  lowrez.png
+- name: Daniel
+  pic:  treasurer.png
   role: Treasurer
-  title: Hanged Jackal
-  quote: Eventually gets round to things…
+  title: Money devourer
+  quote: Kurapika is now drowning in an indescribable emptiness
   colour: color:#231d2d
 
-- name: Graye Goldsmith
+- name: Stella
   pic: socialsec.png
   role: Social Secretary
-  title: The Archlich
-  quote: kel'thuzad my beloved
+  title: American
+  quote:˚ ✧  .  *  ⋅   ˚   *  .    °  .  *
   colour: color:#b600b2
 
 - name: 
@@ -33,18 +33,18 @@
   quote: 
   colour: 
 
-- name: Tom Tudor
-  pic: serveradmin.jpg
+- name: James Cladingbowl
+  pic: serveradmin.png
   role: Server Admin  
-  title: The Dungeon Master 
-  quote: Gamesoc dungeon master. Will trade magic items for snacks.
-  colour: color:#beedfa
+  title: Hanged Jackal 
+  quote: Eventually gets round to things…
+  colour: color:#231d2d
 
-- name: Amogh Bodas
-  pic:  yang.jpg
+- name: Ghost
+  pic:  placeholder.jpg
   role: Committee Assistant
-  title: YANG
-  quote: 🤝:)
+  title: Boo
+  quote: Boo
   colour: color:#ffffff
 
 
