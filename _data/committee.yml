@@ -1,9 +1,9 @@
-- name: Raven
+- name: Raven Deak
   pic:  president.jpg
   role: President
   title: Flying Bird
   quote: Your local yearning fool and galaxy-forest cat cryptid.
-  colour: color:#beedfa
+  colour: color:#b37af1
 
 - name: Taylor
   pic:  secretary.png
