@@ -1,8 +1,8 @@
 - name: Raven
-  pic:  president.jpg
+  pic:  president.png
   role: President
   title: Flying Bird
-  quote: Your local yearning fool and galaxy-forest cat cryptid.
+  quote: Your local cat cryptid 💜
   colour: color:#b37af1
 
 - name: Taylor
@@ -10,21 +10,21 @@
   role: Secretary
   title: The
   quote: ฅ^•ﻌ•^ฅ
-  colour: color:#b86bff
+  colour: color:#287e29
 
 - name: Daniel
   pic:  treasurer.png
   role: Treasurer
   title: Money devourer
   quote: Kurapika is now drowning in an indescribable emptiness
-  colour: color:#231d2d
+  colour: color:#ef2856
 
 - name: Stella
   pic: socialsecretary.png
   role: Social Secretary
   title: American
-  quote: ˚ ✧  .  *  ⋅   ˚   *  .    °  .  *
-  colour: color:#b600b2
+  quote: Shadow Money Wizard Gang 
+  colour: color:#9caf88
 
 - name: 
   pic:  gamesoccenter.png
